@@ -1,2 +1,2 @@
-# foodrec-ai
-;;;;
+# foodrec ai
+*fff*
