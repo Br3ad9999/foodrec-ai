@@ -1,2 +1,1 @@
 # foodrec ai
-*fff*
